@@ -31,7 +31,7 @@ int main(){
     display(arr,10);
     return 0;
 }*/
-/*
+
 #include <stdio.h>
 void Selectionsort(int arr[], int n){
     int i, j, min_idx, temp;
@@ -65,7 +65,7 @@ int main(){
     printf("Sorted array: ");
     display(arr,5);
     return 0;
-}*/
+}
 
 #include <stdio.h>
 void InsertionSort(int arr[], int n){
@@ -98,4 +98,4 @@ int main(){
     printf("Sorted array: ");
     display(arr,5);
     return 0;
-}
+}*/
